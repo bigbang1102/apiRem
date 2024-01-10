@@ -1,7 +1,7 @@
 {
     "todos": [
         {
-            "todo": "Phonphorn",
+            "todo": "asoftware project",
             "completed": false,
             "userId": 1,
             "id": 1
@@ -19,7 +19,7 @@
             "id": 3
         },
         {
-            "todo": "Contribute code or a monetary donation to an open-source software project",
+            "todo": "Contribute code or asoftware project",
             "completed": false,
             "userId": 1,
             "id": 4
